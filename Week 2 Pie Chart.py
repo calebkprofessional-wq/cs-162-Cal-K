@@ -1,3 +1,4 @@
+#got it, Caleb
 import matplotlib.pyplot as plot
 
 # set up your lists
